@@ -3,8 +3,11 @@ using namespace std;
 
 int main(){
 
-	cout<<"this is hello"<<endl;
-	
+	int a = 1;
+
+
+	cout<<"a : "<<a<<endl;
+		
 	return 0;	
 
 }
